@@ -1,2 +1,2 @@
-<?php header("Location: http://www.seed-interactive.com/neo/id.php");
+<?php header("Location: https://hello.myneo.space/id.php");
 die(); ?>
