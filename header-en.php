@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	
+	<title>nexgen neo</title>
+	
+	<!-- FAVICON AND APPLE TOUCH -->    
+	<link rel="shortcut icon" href="assets/img/neo_favicon.ico">
+	
+	<!-- BOOTSTRAP CSS -->
+	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css"> 
+	
+	<!-- FONT AWESOME -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+	
+	<!-- OWL -->
+	<link rel="stylesheet" href="assets/css/owlcarousel/owl.carousel.min.css">
+	<link rel="stylesheet" href="assets/css/owlcarousel/owl.theme.default.min.css">
+	
+	<!-- CUSTOM & PAGES STYLE -->
+	<link rel="stylesheet" href="assets/css/basic.css">
+	<link rel="stylesheet" href="assets/css/main.css">
+	
+
+</head>
+
+<body id="en" class="afterload aftercenter">
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="#"><svg><use class="svg-nav nav-blue" xlink:href="#logo"></use></svg></a>
+				<svg ><use class="svg-nav nav-blue" xlink:href="#hello"></use></svg>
+			</div>
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="id.php">ID</a>|<a class="lang-active" href="javascript:void(0)">EN</a></li>
+				<li><a href="https://itunes.apple.com/" target="_blank"><img src="assets/img/app-store-header.png"/></a></li>
+				<li><a href="https://play.google.com/store" target="_blank"><img src="assets/img/gplay-header.png"/></a></li>
+			</ul>
+		</div>
+	</nav>
