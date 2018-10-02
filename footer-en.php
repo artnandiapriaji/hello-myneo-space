@@ -11,8 +11,8 @@
 					<div class="col-lg-2 col-md-4 col-sm-6">
 						<h5>other page</h5>
 						<a href="https://nexgenenglishonline.co/" target="_blank"><p>Our Company</p></a>
-						<a href="javascript:void(0)" target="_blank"><p>Privacy Policy</p></a>
-						<a href="javascript:void(0)" target="_blank"><p>Terms &amp; Conditions</p></a>
+						<a href="https://myneo.space/privacy-policy" target="_blank"><p>Privacy Policy</p></a>
+						<a href="https://myneo.space/terms&conditions" target="_blank"><p>Terms &amp; Conditions</p></a>
 					</div>
 
 					<div class="col-lg-3 col-md-4 col-sm-6 socmed-link">
@@ -32,7 +32,7 @@
 				</div>
 			</div>
 
-			<div class="container"><p class="copyright">Copyright &copy; 2018. All Right Reserved.</p></div>
+			<div class="container"><p class="copyright">&copy; 2018 Nexgen English online, co. All Right Reserved.</p></div>
 		</div><!-- footer -->
 	</footer><!-- FOOTER -->
 

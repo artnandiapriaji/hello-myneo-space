@@ -32,7 +32,7 @@
 
 	<div class="container">
 		<div class="section-header">
-			<h2 class="text-center">PROVEN. GUARANTEED. CERTIFIED</h2>
+			<h2 class="text-center">PROVEN. GUARANTEED. CERTIFIED.</h2>
 		</div>
 
 		<div class="row">
@@ -65,7 +65,7 @@
 					<div id="step2" class="col-md-12 col-xs-3 step-item">
 						<div><svg><use class="svg-nav nav-blue" xlink:href="#step2-icon"></use></svg></div>
 						<p>
-							<span>2.</span> Sign up and <span>test your current CEFR level for FREE</span> at myneo.space
+							<span>2.</span> Sign up and <span>test your current CEFR level for FREE</span> at myneo.space.
 						</p>
 					</div>
 
