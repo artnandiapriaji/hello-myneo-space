@@ -25,7 +25,8 @@
 	<script rel="text/javascript" src="assets/js/owl.carousel.min.js"> </script>
 	<script rel="text/javascript" src="assets/js/jssor.slider.min.js"></script>
 	<script rel="text/javascript" src="assets/js/custom.js"></script>
-
+  <script rel="text/javascript" src="assets/js/jquery-2.2.0.min.js"></script>
+	
 	<!-- CUSTOM & PAGES STYLE -->
 	<link rel="stylesheet" href="assets/css/basic.css">
 	<link rel="stylesheet" href="assets/css/main.css">
