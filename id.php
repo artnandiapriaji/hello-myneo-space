@@ -52,7 +52,7 @@
 	<div class="container">
 		<div class="row row-rtl">
 			<div class="col-md-6">
-				<h2>Mulai mimpimu dengan <span>neo Study</span>, Sekarang!</h2>
+				<h2>Gapai mimpimu dengan <span>neo Study</span>-Sekarang!</h2>
 
 				<div class="row">
 					<div id="step1" class="col-md-12 col-xs-3 step-item step-active" data-alt="Download aplikasi neo Study di App Store atau Google Play">
@@ -79,7 +79,7 @@
 					<div id="step4" class="col-md-12 col-xs-3 step-item" data-alt="Mulai belajar dengan neo Study">
 						<div><svg><use class="svg-nav nav-blue" xlink:href="#step4-icon"></use></svg></div>
 						<p>
-							<span>4.</span> <span>Mulai belajar</span> dengan neo Study.
+							<span>4.</span> <span>Mulai belajar</span> dengan neo Study!
 						</p>
 					</div>
 				</div>
@@ -166,7 +166,7 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<h2>Tes &amp; Sertifikasi Internasional</h2>
-							<p>Dengan Mastery Test dan CEFR Exit Test Kami mejamin level Bahasa Inggris Kamu dengan sertifikat yang diakui secara Internasional.</p>
+							<p>Dengan Mastery Test dan CEFR Exit Test, Kami mejamin level Bahasa Inggris Kamu dengan sertifikat yang diakui secara Internasional.</p>
 
 							<a class="btn btn-default" data-toggle="modal" data-target="#youtube" data-id="qKHtQuSIv1c">PELAJARI</a>
 						</div>
@@ -191,7 +191,7 @@
 	<div class="container">
 		<div class="row row-rtl">
 			<div class="col-md-5">
-				<h2 class="white-font">Jaminan Fasih Berbahasa Inggris</h2>
+				<h2 class="white-font">Fasih Berbahasa Inggris, Dijamin!</h2>
 				<p class="white-font">Sistem pembelajaran neo Study yang tangguh didasarkan pada data studi yang dikumpulkan dari lebih dari 25 juta siswa dari seluruh dunia. Berdasarkan data ini, system poin neo study mendorong kebiasaan belajar yang baik, yang memungkinkan nexgen neo untuk memantau kemajuan dan menjamin hasil.</p>
 			</div>
 
@@ -272,7 +272,7 @@
 	<div class="container">
 		<div class="section-header">
 			<h2 class="text-center">Rilis Pers</h2>
-			<p class="text-center">Apa yang dikatakan pers tentang nexgen neo</p>
+			<p class="text-center">Apa yang dikatakan pers tentang neo Study</p>
 		</div>
 	</div>
 
@@ -381,7 +381,7 @@
 		<div class="row">
 			<div class="col-md-7">
 				<h2><span class="white-font">Unduh </span>neo Study<span class="white-font">, sekarang!</span></h2>
-				<p class="white-font">Dan mulai perjalananmu dengan neo Study hari ini.</p>
+				<p class="white-font">Dan mulai perjalananmu dengan neo—hari ini!</p>
 
 				<a href="https://itunes.apple.com/us/app/neo-study/id1296757897/" target="_blank"><img src="assets/img/app-store-download.png" alt="Dapatkan neo Study di AppStore"/></a>
 				<a href="https://play.google.com/store/apps/details?id=com.nexgen.nsa" target="_blank"><img src="assets/img/gplay-download.png" alt="Dapatkan neo Study di Google Play Store"/></a>
