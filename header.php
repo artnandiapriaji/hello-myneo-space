@@ -22,9 +22,9 @@
 	<!-- OWL -->
 	<link rel="stylesheet" href="assets/css/owlcarousel/owl.carousel.min.css">
 	<link rel="stylesheet" href="assets/css/owlcarousel/owl.theme.default.min.css">
-	<link rel="stylesheet" href="assets/js/owl.carousel.min.js">
-	<link rel="stylesheet" href="assets/js/jssor.slider.min.js">
-	<link rel="stylesheet" href="assets/js/custom.js">
+	<script rel="text/javascript" src="assets/js/owl.carousel.min.js"> </script>
+	<script rel="text/javascript" src="assets/js/jssor.slider.min.js"></script>
+	<script rel="text/javascript" src="assets/js/custom.js"></script>
 
 	<!-- CUSTOM & PAGES STYLE -->
 	<link rel="stylesheet" href="assets/css/basic.css">
