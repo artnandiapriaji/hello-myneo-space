@@ -43,8 +43,8 @@
 			</div>
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="id.php">ID</a>|<a class="lang-active" href="javascript:void(0)">EN</a></li>
-				<li><a href="https://itunes.apple.com/" target="_blank"><img src="assets/img/app-store-header.png"/></a></li>
-				<li><a href="https://play.google.com/store" target="_blank"><img src="assets/img/gplay-header.png"/></a></li>
+				<li><a href="https://itunes.apple.com/us/app/neo-study/id1296757897/" target="_blank"><img src="assets/img/app-store-header.png"/></a></li>
+				<li><a href="https://play.google.com/store/apps/details?id=com.nexgen.nsa" target="_blank"><img src="assets/img/gplay-header.png"/></a></li>
 			</ul>
 		</div>
 	</nav>

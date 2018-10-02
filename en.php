@@ -383,8 +383,8 @@
 				<h2><span class="white-font">Download </span>neo Study<span class="white-font">, Now!</span></h2>
 				<p class="white-font">And start your journey with neo today.</p>
 
-				<a href="https://itunes.apple.com/" target="_blank"><img src="assets/img/app-store-download.png"/></a>
-				<a href="https://play.google.com/store" target="_blank"><img src="assets/img/gplay-download.png"/></a>
+				<a href="https://itunes.apple.com/us/app/neo-study/id1296757897/" target="_blank"><img src="assets/img/app-store-download.png"/></a>
+				<a href="https://play.google.com/store/apps/details?id=com.nexgen.nsa" target="_blank"><img src="assets/img/gplay-download.png"/></a>
 			</div>
 			<div class="col-md-5">
 				<img class="download-image" src="assets/img/download-phone.png"/>

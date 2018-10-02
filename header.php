@@ -44,12 +44,12 @@
 			<ul class="nav navbar-nav navbar-right">
 				<li><a class="lang-active" href="javascript:void(0)">ID</a>|<a href="en.php">EN</a></li>
 				<li>
-					<a href="https://itunes.apple.com/" target="_blank">
+					<a href="https://itunes.apple.com/us/app/neo-study/id1296757897/" target="_blank">
 						<img src="assets/img/app-store-header.png" alt="Dapatkan neo Study di AppStore"/>
 					</a>
 				</li>
 				<li>
-					<a href="https://play.google.com/store" target="_blank">
+					<a href="https://play.google.com/store/apps/details?id=com.nexgen.nsa" target="_blank">
 						<img src="assets/img/gplay-header.png" alt="Dapatkan neo Study di Google Play Store"/>
 					</a>
 				</li>
