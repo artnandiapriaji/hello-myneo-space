@@ -5,7 +5,7 @@
 				<div class="row">
 					<div class="col-lg-3 col-md-12 col-sm-6">
 						<svg><use class="svg-nav nav-blue" xlink:href="#logo-footer"></use></svg>
-						<p>With the world's most advanced, AI-enabled English fluency platform in your pocket, you can reach your English goals faster, at an affordable cost-guaranteed.</p>
+						<p>With the world's most advanced, AI-enabled English fluency platform in your pocket, you can reach your English goals faster, at an affordable cost—guaranteed!</p>
 					</div>
 
 					<div class="col-lg-2 col-md-4 col-sm-6">
