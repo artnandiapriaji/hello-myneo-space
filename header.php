@@ -7,26 +7,29 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta name="description" content="Platform pembelajaran Bahasa Inggris yang paling canggih, dengan teknologi AI yang aktif di ponsel anda. sistem pembelajaran Bahasa Inggris yang kuat, efektif, fleksibel dan nyaman ini dirancang untuk gaya hidup aktif dan mobile anda.">
-	
+
 	<title>Nexgen neo - Aplikasi belajar Bahasa Inggris yang canggih & efektif</title>
-	
-	<!-- FAVICON AND APPLE TOUCH -->    
+
+	<!-- FAVICON AND APPLE TOUCH -->
 	<link rel="shortcut icon" href="assets/img/neo_favicon.ico">
-	
+
 	<!-- BOOTSTRAP CSS -->
-	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css"> 
-	
+	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+
 	<!-- FONT AWESOME -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-	
+
 	<!-- OWL -->
 	<link rel="stylesheet" href="assets/css/owlcarousel/owl.carousel.min.css">
 	<link rel="stylesheet" href="assets/css/owlcarousel/owl.theme.default.min.css">
-	
+	<link rel="stylesheet" href="assets/js/owl.carousel.min.js">
+	<link rel="stylesheet" href="assets/js/jssor.slider.min.js">
+	<link rel="stylesheet" href="assets/js/custom.js">
+
 	<!-- CUSTOM & PAGES STYLE -->
 	<link rel="stylesheet" href="assets/css/basic.css">
 	<link rel="stylesheet" href="assets/css/main.css">
-	
+
 
 </head>
 
