@@ -370,7 +370,7 @@
 			<p class="text-center">Stop wasting your time and money with a system that doesn't guarantee your English fluency.  Say hello neo!</p>
 		</div>
 
-		<!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/56ec12f63aa656e98dc14c2035147169.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+		<!-- LightWidget WIDGET --><script rel="text/javascript" src="assets/js/jquery-2.2.0.min.js"></script><iframe src="//lightwidget.com/widgets/56ec12f63aa656e98dc14c2035147169.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
 	</div>
 
 </section>
