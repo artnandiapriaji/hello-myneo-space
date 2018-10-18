@@ -23,7 +23,19 @@
 		setTimeout(function(){ $("body").addClass("aftercenter"); }, 300);
 		setTimeout(function(){ $("body").addClass("afterload"); }, 4000);*/
 		
-		var mbid, lang;
+		var mbid, lang, href;
+		
+		if(getOS() == 'Android'){
+			href = "https://play.google.com/store/apps/details?id=com.nexgen.nsa";
+		}
+		else if(getOS() == 'iOS'){
+			href = "https://itunes.apple.com/us/app/neo-study/id1296757897/";
+		}
+		else href = "https://hello.myneo.space/";
+		
+		$("#mainbanner a").attr("href", href);
+				
+		
 		
 		if(ww < 580){
 			$.each($("#mainbanner img"), function() { 
@@ -169,6 +181,31 @@
 		var owl = $('.owl-carousel.owl-carousel3');
 		owl.trigger('play.owl.autoplay',[4000]);
 	})
+	
+	function getOS() {
+	  var userAgent = window.navigator.userAgent,
+		  platform = window.navigator.platform,
+		  macosPlatforms = ['Macintosh', 'MacIntel', 'MacPPC', 'Mac68K'],
+		  windowsPlatforms = ['Win32', 'Win64', 'Windows', 'WinCE'],
+		  iosPlatforms = ['iPhone', 'iPad', 'iPod'],
+		  os = null;
+
+	  if (macosPlatforms.indexOf(platform) !== -1) {
+		os = 'Mac OS';
+	  } else if (iosPlatforms.indexOf(platform) !== -1) {
+		os = 'iOS';
+	  } else if (windowsPlatforms.indexOf(platform) !== -1) {
+		os = 'Windows';
+	  } else if (/Android/.test(userAgent)) {
+		os = 'Android';
+	  } else if (!os && /Linux/.test(platform)) {
+		os = 'Linux';
+	  }
+
+	  return os;
+	}
+
+	
 	
 	
 	

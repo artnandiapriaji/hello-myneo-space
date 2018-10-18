@@ -7,30 +7,34 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta name="description" content="Platform pembelajaran Bahasa Inggris yang paling canggih, dengan teknologi AI yang aktif di ponsel anda. sistem pembelajaran Bahasa Inggris yang kuat, efektif, fleksibel dan nyaman ini dirancang untuk gaya hidup aktif dan mobile anda.">
-
-	<title>Nexgen neo - Aplikasi belajar Bahasa Inggris yang canggih & efektif</title>
-
-	<!-- FAVICON AND APPLE TOUCH -->
+	
+	<title>neo Study - Aplikasi belajar Bahasa Inggris yang canggih &amp; efektif</title>
+	
+	<!-- FAVICON AND APPLE TOUCH -->    
 	<link rel="shortcut icon" href="assets/img/neo_favicon.ico">
-
+	
 	<!-- BOOTSTRAP CSS -->
-	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-
+	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css"> 
+	
 	<!-- FONT AWESOME -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-
+	
 	<!-- OWL -->
 	<link rel="stylesheet" href="assets/css/owlcarousel/owl.carousel.min.css">
 	<link rel="stylesheet" href="assets/css/owlcarousel/owl.theme.default.min.css">
-	<script rel="text/javascript" src="assets/js/owl.carousel.min.js"> </script>
-	<script rel="text/javascript" src="assets/js/jssor.slider.min.js"></script>
-	<script rel="text/javascript" src="assets/js/custom.js"></script>
-  <script rel="text/javascript" src="assets/js/jquery-2.2.0.min.js"></script>
 	
 	<!-- CUSTOM & PAGES STYLE -->
 	<link rel="stylesheet" href="assets/css/basic.css">
 	<link rel="stylesheet" href="assets/css/main.css">
-
+	
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WX46S97');</script>
+	<!-- End Google Tag Manager -->
+	
 
 </head>
 
