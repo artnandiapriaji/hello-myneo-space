@@ -32,18 +32,23 @@
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-WX46S97');</script>
+	})(window,document,'script','dataLayer','GTM-MHH7W2M');</script>
 	<!-- End Google Tag Manager -->
 	
 
 </head>
 
 <body id="en" class="afterload aftercenter">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHH7W2M"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
 	<nav class="navbar navbar-default navbar-fixed-top">
 		<div class="container-fluid">
 			<div class="navbar-header">
 				<a class="navbar-brand" href="#"><svg><use class="svg-nav nav-blue" xlink:href="#logo"></use></svg></a>
-				<svg ><use class="svg-nav nav-blue" xlink:href="#hello"></use></svg>
+				<svg><use class="svg-nav nav-blue" xlink:href="#hello"></use></svg>
 			</div>
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="id.php">ID</a>|<a class="lang-active" href="javascript:void(0)">EN</a></li>

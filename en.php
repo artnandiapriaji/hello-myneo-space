@@ -8,16 +8,16 @@
 
 	<div class="owl-carousel owl-carousel1 owl-theme">
 		<div class="item">
-			<a href="http://myneo.space" target="_blank"><img id="main-banner1" src="" /></a>
+			<a href="" target="_blank"><img id="main-banner1" src="" /></a>
 		</div>
 		<div class="item">
-			<a href="http://myneo.space" target="_blank"><img id="main-banner2" src="" /></a>
+			<a href="" target="_blank"><img id="main-banner2" src="" /></a>
 		</div>
 		<div class="item">
-			<a href="http://myneo.space" target="_blank"><img id="main-banner3" src="" /></a>
+			<a href="" target="_blank"><img id="main-banner3" src="" /></a>
 		</div>
 		<div class="item">
-			<a href="http://myneo.space" target="_blank"><img id="main-banner4" src="" /></a>
+			<a href="" target="_blank"><img id="main-banner4" src="" /></a>
 		</div>
 	</div>
 	
@@ -454,8 +454,8 @@
 				<h2><span class="white-font">Download </span>neo Study<span class="white-font">, Now!</span></h2>
 				<p class="white-font">And start your journey with neo today.</p>
 				
-				<a href="https://itunes.apple.com/" target="_blank"><img src="assets/img/app-store-download.png"/></a>
-				<a href="https://play.google.com/store" target="_blank"><img src="assets/img/gplay-download.png"/></a>
+				<a href="https://itunes.apple.com/us/app/neo-study/id1296757897/" target="_blank"><img src="assets/img/app-store-download.png"/></a>
+				<a href="https://play.google.com/store/apps/details?id=com.nexgen.nsa" target="_blank"><img src="assets/img/gplay-download.png"/></a>
 			</div>
 			<div class="col-md-5">
 				<img class="download-image" src="assets/img/download-phone.png"/>

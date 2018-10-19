@@ -8,16 +8,16 @@
 
 	<div class="owl-carousel owl-carousel1 owl-theme">
 		<div class="item">
-			<a href="http://myneo.space" target="_blank"><img id="main-banner1" src="" alt="Kuasai Bahasa Inggris untuk sekolah/kuliah di luar negeri"/></a>
+			<a href="" target="_blank"><img id="main-banner1" src="" alt="Kuasai Bahasa Inggris untuk sekolah/kuliah di luar negeri"/></a>
 		</div>
 		<div class="item">
-			<a href="http://myneo.space" target="_blank"><img id="main-banner2" src="" alt="Kuasai Bahasa Inggris untuk bekerja di perusahaan multinasional"/></a>
+			<a href="" target="_blank"><img id="main-banner2" src="" alt="Kuasai Bahasa Inggris untuk bekerja di perusahaan multinasional"/></a>
 		</div>
 		<div class="item">
-			<a href="http://myneo.space" target="_blank"><img id="main-banner3" src="" alt="Kuasai Bahasa Inggris untuk memperluas bisnis ke luar negeri"/></a>
+			<a href="" target="_blank"><img id="main-banner3" src="" alt="Kuasai Bahasa Inggris untuk memperluas bisnis ke luar negeri"/></a>
 		</div>
 		<div class="item">
-			<a href="http://myneo.space" target="_blank"><img id="main-banner4" src="" alt="Kuasai Bahasa Inggris untuk perjalanan wisata keliling dunia"/></a>
+			<a href="" target="_blank"><img id="main-banner4" src="" alt="Kuasai Bahasa Inggris untuk perjalanan wisata keliling dunia"/></a>
 		</div>
 	</div>
 	
@@ -271,8 +271,8 @@
 	
 	<div class="container">
 		<div class="section-header">
-			<h2 class="text-center">Press Release</h2>
-			<p class="text-center">What the press is saying about nexgen neo</p>
+			<h2 class="text-center">Rilis Pers</h2>
+			<p class="text-center">Apa yang dikatakan pers tentang nexgen neo</p>
 		</div>
 	</div>
 	
@@ -454,8 +454,8 @@
 				<h2><span class="white-font">Unduh </span>neo Study<span class="white-font">, Sekarang!</span></h2>
 				<p class="white-font">Dan mulai petualanganmu dengan neo Study hari ini.</p>
 				
-				<a href="https://itunes.apple.com/" target="_blank"><img src="assets/img/app-store-download.png" alt="Dapatkan neo Study di AppStore"/></a>
-				<a href="https://play.google.com/store" target="_blank"><img src="assets/img/gplay-download.png" alt="Dapatkan neo Study di Google Play Store"/></a>
+				<a href="https://itunes.apple.com/us/app/neo-study/id1296757897/" target="_blank"><img src="assets/img/app-store-download.png" alt="Dapatkan neo Study di AppStore"/></a>
+				<a href="https://play.google.com/store/apps/details?id=com.nexgen.nsa" target="_blank"><img src="assets/img/gplay-download.png" alt="Dapatkan neo Study di Google Play Store"/></a>
 			</div>
 			<div class="col-md-5">
 				<img class="download-image" src="assets/img/download-phone.png" alt="Unduh sekarang dan mulai petualangan belajarmu dengan neo Study"/>
