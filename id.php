@@ -271,8 +271,8 @@
 	
 	<div class="container">
 		<div class="section-header">
-			<h2 class="text-center">Rilis Pers</h2>
-			<p class="text-center">Apa yang dikatakan pers tentang nexgen neo</p>
+			<h2 class="text-center">Press Release</h2>
+			<p class="text-center">What the press is saying about nexgen neo</p>
 		</div>
 	</div>
 	
@@ -282,6 +282,10 @@
 				<div class="row">
 					<div class="col-md-3 col-sm-6">
 						<a href="https://m.antaranews.com/berita/756020/tingkatkan-kualitas-pembelajaran-bahasa-inggris-nexgen-luncurkan-neo" target="_blank"><img src="assets/img/press/antara.png" alt="antara"/></a>
+					</div>
+					
+					<div class="col-md-3 col-sm-6">
+						<a href="http://bantentribun.id/aplikasi-neo-study-belajar-bahasa-inggris-tanpa-ribet/" target="_blank"><img src="assets/img/press/bantentribun.png" alt="bantentribun"/></a>
 					</div>
 					
 					<div class="col-md-3 col-sm-6">
@@ -297,19 +301,15 @@
 					</div>
 					
 					<div class="col-md-3 col-sm-6">
+						<a href="https://dailysocial.id/post/edtech-service-nexgen-english-online-enters-indonesian-market" target="_blank"><img src="assets/img/press/dailysocial.png" alt="dailysocial"/></a>
+					</div>
+					
+					<div class="col-md-3 col-sm-6">
 						<a href="http://www.grid.id/read/04950063/kenalkan-neo-aplikasi-belajar-bahasa-inggris-canggih-dan-gratis" target="_blank"><img src="assets/img/press/grid.png" alt="grid"/></a>
 					</div>
 					
 					<div class="col-md-3 col-sm-6">
 						<a href="http://hai.grid.id/read/07951481/siapin-diri-yuk-belajar-fasih-berbahasa-inggris-di-neo-study-gratis" target="_blank"><img src="assets/img/press/hai.png" alt="hai"/></a>
-					</div>
-					
-					<div class="col-md-3 col-sm-6">
-						<a href="http://m.industry.co.id/read/43390/belajar-bahasa-inggris-selangkah-lebih-maju-dengan-sistem-neo" target="_blank"><img src="assets/img/press/industry.png" alt="industry"/></a>
-					</div>
-					
-					<div class="col-md-3 col-sm-6">
-						<a href="https://www.inews.id/techno/read/268517/belajar-bahasa-inggris-aplikasi-ini-bisa-digunakan-di-smartphone" target="_blank"><img src="assets/img/press/inews.png" alt="inews"/></a>
 					</div>
 				</div>
 			</div>
@@ -319,6 +319,26 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-3 col-sm-6">
+						<a href="https://www.inanews.co.id/2018/10/08/nexgen-kenalkan-aplikasi-belajar-bahasa-inggris-neo/" target="_blank"><img src="assets/img/press/inanews.png" alt="inanews"/></a>
+					</div>
+					
+					<div class="col-md-3 col-sm-6">
+						<a href="https://www.indopos.co.id/read/2018/10/05/151566/belajar-inggris-dengan-teknologi-ai" target="_blank"><img src="assets/img/press/indopos.png" alt="indopos"/></a>
+					</div>
+					
+					<div class="col-md-3 col-sm-6">
+						<a href="http://m.industry.co.id/read/43390/belajar-bahasa-inggris-selangkah-lebih-maju-dengan-sistem-neo" target="_blank"><img src="assets/img/press/industry.png" alt="industry"/></a>
+					</div>
+					
+					<div class="col-md-3 col-sm-6">
+						<a href="https://www.inews.id/techno/read/268517/belajar-bahasa-inggris-aplikasi-ini-bisa-digunakan-di-smartphone" target="_blank"><img src="assets/img/press/inews.png" alt="inews"/></a>
+					</div>
+					
+					<div class="col-md-3 col-sm-6">
+						<a href="https://m.inilah.com/news/detail/2483672/neo-cara-kekinian-belajar-bahasa-inggris" target="_blank"><img src="assets/img/press/inilah.png" alt="inilah"/></a>
+					</div>
+					
+					<div class="col-md-3 col-sm-6">
 						<a href="https://www.jawapos.com/pendidikan/08/10/2018/nexgen-english-online-ramaikan-kursus-bahasa-inggris-di-indonesia" target="_blank"><img src="assets/img/press/jawapos.png" alt="jawapos"/></a>
 					</div>
 					
@@ -326,6 +346,16 @@
 						<a href="https://m.jpnn.com/news/belajar-bahasa-inggris-selangkah-lebih-maju-dengan-neo" target="_blank"><img src="assets/img/press/jpnn.png" alt="jpnn"/></a>
 					</div>
 					
+					<div class="col-md-3 col-sm-6">
+						<a href="http://edukasi.kompas.com/read/2018/10/08/19370961/wicis-dan-pembelajaran-inggris-berbasis-teknologi" target="_blank"><img src="assets/img/press/kompas.png" alt="kompas"/></a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="item">
+			<div class="container">
+				<div class="row">
 					<div class="col-md-3 col-sm-6">
 						<a href="http://m.kontan.co.id/news/semakin-mudah-belajar-bahasa-inggris-dengan-aplikasi-neo" target="_blank"><img src="assets/img/press/kontan.png" alt="kontan"/></a>
 					</div>
@@ -347,7 +377,15 @@
 					</div>
 					
 					<div class="col-md-3 col-sm-6">
+						<a href="https://radarmalang.jawapos.com/belajar-bahasa-inggris-selangkah-lebih-maju-dengan-neo/" target="_blank"><img src="assets/img/press/radarmalang.png" alt="radarmalang"/></a>
+					</div>
+					
+					<div class="col-md-3 col-sm-6">
 						<a href="https://m.republika.co.id/berita/pendidikan/eduaction/18/10/04/pg2k2o380-mau-lancar-berbahasa-inggris-beginilah-caranya" target="_blank"><img src="assets/img/press/republika.png" alt="republika"/></a>
+					</div>
+					
+					<div class="col-md-3 col-sm-6">
+						<a href="https://www.review1st.com/aplikasi/neo-nexgen-cara-belajar-bahasa-inggris-menjadi-lebih-mudah/" target="_blank"><img src="assets/img/press/review.png" alt="review"/></a>
 					</div>
 				</div>
 			</div>
@@ -356,11 +394,6 @@
 		<div class="item">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-3 col-sm-6">
-						<a href="https://www.review1st.com/aplikasi/neo-nexgen-cara-belajar-bahasa-inggris-menjadi-lebih-mudah/" target="_blank"><img src="assets/img/press/review.png" alt="review"/></a>
-					</div>
-					
-					
 					<div class="col-md-3 col-sm-6">
 						<a href="https://sinarharapan.id/2018/10/nexgen-neo-perkenalkan-aplikasi-belajar-bahasa-inggris-online-bersertifikat-international/" target="_blank"><img src="assets/img/press/sinarharapan.png" alt="sinarharapan"/></a>
 					</div>
@@ -384,9 +417,14 @@
 					<div class="col-md-3 col-sm-6">
 						<a href="https://www.viva.co.id/digital/piranti/1081425-belajar-bahasa-inggris-bisa-lewat-aplikasi-di-ponsel" target="_blank"><img src="assets/img/press/viva.png" alt="viva"/></a>
 					</div>
+					
+					<div class="col-md-3 col-sm-6">
+						<a href="https://www.wartaekonomi.co.id/berita-antara/756020.html" target="_blank"><img src="assets/img/press/wartaekonomi.png" alt="wartaekonomi"/></a>
+					</div>
 				</div>
 			</div>
 		</div>
+					
 	</div>
 	
 </section>
