@@ -37,7 +37,7 @@
 		
 		<div class="row">
 			<div class="col-md-12 text-center">
-				<p>Akhirnya, anda akan memiliki kepercayaan diri untuk berbicara Bahasa Inggris! Dengan platform pembelajaran Bahasa Inggris yang paling canggih, dengan teknologi AI yang aktif di ponsel anda. Anda dapat mencapai goals berbahasa Inggris anda lebih cepat, dengan biaya terjangkau – Dijamin. Berdasarkan solusi yang terbukti untuk kefasihan Bahasa Inggris, sistem pembelajaran yang kuat, efektif, fleksible dan nyaman ini dirancang untuk gaya hidup aktif dan mobile anda.</p>
+				<p>Akhirnya, Kamu akan memiliki kepercayaan diri untuk berbicara Bahasa Inggris! Dengan platform pembelajaran Bahasa Inggris yang paling canggih, dengan teknologi AI yang aktif di ponsel Kamu. Kamu dapat mencapai tujuan berbahasa Inggris anda lebih cepat, dengan biaya terjangkau – Dijamin. Berdasarkan solusi yang terbukti untuk kefasihan Bahasa Inggris, sistem pembelajaran yang kuat, efektif, fleksible, dan nyaman ini dirancang untuk gaya hidup aktif dan mobile Kamu.</p>
 			</div>
 		</div>
 	</div>
@@ -52,13 +52,13 @@
 	<div class="container">
 		<div class="row row-rtl">
 			<div class="col-md-6">
-				<h2>Mulai rancang mimpimu dengan <span>neo Study</span>, Sekarang!</h2>
+				<h2>Gapai mimpimu dengan<span> neo</span> - Sekarang!</h2>
 				
 				<div class="row">
 					<div id="step1" class="col-md-12 col-xs-3 step-item step-active" data-alt="Download aplikasi neo Study di App Store atau Google Play">
 						<div><svg><use class="svg-nav nav-blue" xlink:href="#step1-icon"></use></svg></div>
 						<p>
-							<span>1.</span> <span>Download</span> aplikasi neo Study di App Store atau Google Play.
+							<span>1.</span> <span>Download</span> aplikasi neo Study di app store favorit Kamu.
 						</p>
 					</div>
 					
@@ -79,7 +79,7 @@
 					<div id="step4" class="col-md-12 col-xs-3 step-item" data-alt="Mulai belajar dengan neo Study">
 						<div><svg><use class="svg-nav nav-blue" xlink:href="#step4-icon"></use></svg></div>
 						<p>
-							<span>4.</span> <span>Mulai belajar</span> dengan aplikasi neo Study.
+							<span>4.</span> <span>Mulai belajar</span> dengan neo Study.
 						</p>
 					</div>
 				</div>
@@ -103,7 +103,7 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<h2>PEMBELAJARAN ADAPTIF</h2>
-							<p>Tidak membuang waktu anda! neo tahu kapan anda perlu untuk melatih apa yang telah anda pelajari dan mengajarkan bahasa baru yang anda butuhkan.</p>
+							<p>neo mengikuti perkembangan Kamu sepanjang perjalanan dan memberi Kamu apa yang Kamu butuhkan untuk mengoptimalkan pembelajaran Kamu.</p>
 							
 							<a class="btn btn-default" data-toggle="modal" data-target="#youtube" data-id="3GkYCPOsDVA">PELAJARI</a>
 						</div>
@@ -124,7 +124,7 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<h2>PENGENAL SUARA CANGGIH</h2>
-							<p>neo memberi anda kepercayaan diri. Sebelum anda menyadarinya, anda telah terbiasa mengajukan dan menjawab pertanyaan dengan Bahasa Inggris.</p>
+							<p>Semua latihan yang Kamu butuhkan dan sebelum Kamu menyadarinya, Kamu akan bertanya dan menjawab pertanyaan dalam bahasa Inggris!</p>
 							
 							<a class="btn btn-default" data-toggle="modal" data-target="#youtube" data-id="-hQUDhy5IPo">PELAJARI</a>
 						</div>
@@ -145,7 +145,7 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<h2>neo LIVE</h2>
-							<p>Tidak perlu macet-macetan, tidak bingung parkir, tidak ada waktu berharga yang terbuang, tidak merusak jadwal anda, sesi coaching bisa dilakukan dimanapun dan kapanpun.</p>
+							<p>Tidak perlu terjebak macet, tidak bingung parkir, tidak ada waktu berharga yang terbuang, tidak merusak jadwal Kamu, sesi coaching bisa dilakukan kapanpun dan dimanapun.</p>
 							
 							<a class="btn btn-default" data-toggle="modal" data-target="#youtube" data-id="-bIxjhy-2VA?start=40">PELAJARI</a>
 						</div>
@@ -166,7 +166,7 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<h2>TES &amp; SERTIFIKASI INTERNASIONAL</h2>
-							<p>Dengan menggunakan Mastery Test dan CEFR Exit Test kami mengkukuhkan level Bahasa Inggris anda, ditandai dengan sertifikat yang diakui secara Internasional.</p>
+							<p>Dengan Mastery Test dan CEFR Exit Test, Kami mejamin level Bahasa Inggris Kamu dengan sertifikat yang diakui secara Internasional.</p>
 							
 							<a class="btn btn-default" data-toggle="modal" data-target="#youtube" data-id="qKHtQuSIv1c">PELAJARI</a>
 						</div>
@@ -191,8 +191,8 @@
 	<div class="container">
 		<div class="row row-rtl">
 			<div class="col-md-5">
-				<h2 class="white-font">JAMINAN FASIH BAHASA INGGRIS</h2>
-				<p class="white-font">Sistem pembelajaran Nexgen neo yang kuat didasarkan pada data studi yang dikumpulkan dari lebih dari 20 juta siswa dari seluruh dunia. Berdasarkan data ini, system poin neo study mendorong kebiasaan belajar yang baik, yang memungkinkan nexgen neo untuk memantau kemajuan dan menjamin hasil.</p>
+				<h2 class="white-font">FASIH BERBAHASA INGGRIS, DIJAMIN!</h2>
+				<p class="white-font">Sistem pembelajaran neo yang tangguh didasarkan pada data studi yang dikumpulkan dari lebih dari 25 juta siswa dari seluruh dunia. Berdasarkan data ini, system poin neo mendorong kebiasaan belajar yang baik, yang memungkinkan nexgen neo untuk memantau kemajuan dan menjamin hasil.</p>
 			</div>
 			
 			<div class="col-md-7">
@@ -213,7 +213,7 @@
 	<div class="container">
 		<div class="section-header">
 			<h2 class="text-center">#My<span>neo</span>experience</h2>
-			<p class="text-center">Yuk bagikan pengalamanmu menggunakan neo Study di sini.</p>
+			<p class="text-center">Yuk bagikan pengalamanmu menggunakan neo di sini.</p>
 		</div>
 	</div>
 		
@@ -275,7 +275,7 @@
 			<p class="text-center">Apa yang dikatakan pers tentang nexgen neo</p>
 		</div>
 	</div>
-	
+		
 	<div class="owl-carousel owl-carousel4 owl-theme">
 		<div class="item">
 			<div class="container">
@@ -437,7 +437,7 @@
 	<div class="container">
 		<div class="section-header">
 			<h2 class="text-center">Gabung Komunitas Kami</h2>
-			<p class="text-center">Berhentilah membuang waktu dan uang anda dengan sistem yang tidak menjamin kelancaran berbahasa Inggris anda. Katakan halo neo!</p>
+			<p class="text-center">Jangan buang waktu dan uang Kamu dengan sistem yang tidak menjamin kelancaran berbahasa inggris Kamu. Katakan halo @nexgen.neo!</p>
 		</div>
 		
 		<!-- SnapWidget -->
@@ -452,7 +452,7 @@
 		<div class="row">
 			<div class="col-md-7">
 				<h2><span class="white-font">Unduh </span>neo Study<span class="white-font">, Sekarang!</span></h2>
-				<p class="white-font">Dan mulai petualanganmu dengan neo Study hari ini.</p>
+				<p class="white-font">Dan mulai perjalananmu dengan neo — hari ini!</p>
 				
 				<a href="https://itunes.apple.com/us/app/neo-study/id1296757897/" target="_blank"><img src="assets/img/app-store-download.png" alt="Dapatkan neo Study di AppStore"/></a>
 				<a href="https://play.google.com/store/apps/details?id=com.nexgen.nsa" target="_blank"><img src="assets/img/gplay-download.png" alt="Dapatkan neo Study di Google Play Store"/></a>

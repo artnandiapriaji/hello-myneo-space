@@ -32,12 +32,12 @@
 	
 	<div class="container">
 		<div class="section-header">
-			<h2 class="text-center">PROVEN. GUARANTEED. CERTIFIED</h2>
+			<h2 class="text-center">PROVEN. GUARANTEED. CERTIFIED.</h2>
 		</div>
 		
 		<div class="row">
 			<div class="col-md-12 text-center">
-				<p>Finally, you will have the confidence to speak English! With the world's most advanced, AI-enabled English fluency platform in your pocket, you can reach your English goals faster, at an affordable cost-guaranteed. Based on a proven solution for English fluency, this powerful, effective, flexible and convenient learning system is designed for your active and mobile lifestyle. Its easy-to-use interface, its adaptive learning through AI technology and international certification that is fully aligned to the Common European Framework of Reference for Languages (CEFR) make nexgen neo the right choice for reaching your English fluency.</p>
+				<p>Finally, you’ll have the confidence to speak English! With the most advanced English learning platform, with active AI technology on your smartphone, you can achieve your English-speaking goals faster at an affordable cost — guaranteed! Based on a proven solution, this powerful, effective, flexible and convenient learning system is designed for your active and mobile lifestyle.</p>
 			</div>
 		</div>
 	</div>
@@ -52,7 +52,7 @@
 	<div class="container">
 		<div class="row row-rtl">
 			<div class="col-md-6">
-				<h2>Achieve your dreams with <span>neo Study</span>, Today!</h2>
+				<h2>Achieve your dreams with <span>neo</span> - Today!</h2>
 				
 				<div class="row">
 					<div id="step1" class="col-md-12 col-xs-3 step-item step-active">
@@ -79,7 +79,7 @@
 					<div id="step4" class="col-md-12 col-xs-3 step-item">
 						<div><svg><use class="svg-nav nav-blue" xlink:href="#step4-icon"></use></svg></div>
 						<p>
-							<span>4.</span> <span>Start learning</span> with neo Study!
+							<span>4.</span> <span>Start learning</span> with the neo Study app!
 						</p>
 					</div>
 				</div>
@@ -103,7 +103,7 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<h2>ADAPTIVE LEARNING</h2>
-							<p>Nothing is a waste of your time! neo knows when you need practice what you know and teaches you the new language you’ll need.</p>
+							<p>neo follows your progress through your course and gives you what you need to optimize your learning.</p>
 							
 							<a class="btn btn-default" data-toggle="modal" data-target="#youtube" data-id="3GkYCPOsDVA">MORE</a>
 						</div>
@@ -124,7 +124,7 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<h2>ADVANCE SPEECH RECOGNITION</h2>
-							<p>neo gives you confidence! Before you realize it, you are used to asking and answering questions in English.</p>
+							<p>All the speaking practice you need --- and before you know it, you will be asking and answering questions in English!</p>
 							
 							<a class="btn btn-default" data-toggle="modal" data-target="#youtube" data-id="-hQUDhy5IPo">MORE</a>
 						</div>
@@ -145,7 +145,7 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<h2>neo LIVE</h2>
-							<p>No extra driving, no parking worries, no precious time wasted, no hassle on your schedule just do it from anywhere quiet.</p>
+							<p>No extra driving, no parking worries, no precious time wasted, no hassle to your schedule. Coaching sessions can be done anytime and anywhere.</p>
 							
 							<a class="btn btn-default" data-toggle="modal" data-target="#youtube" data-id="-bIxjhy-2VA?start=40">MORE</a>
 						</div>
@@ -166,7 +166,7 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<h2>TESTING &amp; INTERNATIONAL CERTIFICATION</h2>
-							<p>Using Master Tests and a CEFR Exit Test we certify your level.</p>
+							<p>Using Mastery Tests and a CEFR Exit Test, we certify your English language level with an Internationally recognized certificate.</p>
 							
 							<a class="btn btn-default" data-toggle="modal" data-target="#youtube" data-id="qKHtQuSIv1c">MORE</a>
 						</div>
@@ -191,8 +191,8 @@
 	<div class="container">
 		<div class="row row-rtl">
 			<div class="col-md-5">
-				<h2 class="white-font">ENGLISH FLUENCY, GUARANTEED</h2>
-				<p class="white-font">Nexgen neo's robust learning system is based on study data collected from more than 20 million students from all over the world.  Based on this data, neo's study point system encourages good study habits, which allows nexgen neo to closely monitor progress and guarantee results.</p>
+				<h2 class="white-font">ENGLISH FLUENCY, GUARANTEED!</h2>
+				<p class="white-font">nexgen’s robust learning system is based on study data collected from more than 25 million students from all over the world.  Based on this data, nexgen’s study point system encourages good study habits.  This allows the neo system to closely monitor progress and guarantee results.</p>
 			</div>
 			
 			<div class="col-md-7">
@@ -437,7 +437,7 @@
 	<div class="container">
 		<div class="section-header">
 			<h2 class="text-center">Join Our Community</h2>
-			<p class="text-center">Stop wasting your time and money with a system that doesn't guarantee your English fluency.  Say hello neo!</p>
+			<p class="text-center">Stop wasting your time and money on a system that doesn’t guarantee your English fluency.  Say hello @nexgen.neo!</p>
 		</div>
 		
 		<!-- SnapWidget -->
@@ -452,7 +452,7 @@
 		<div class="row">
 			<div class="col-md-7">
 				<h2><span class="white-font">Download </span>neo Study<span class="white-font">, Now!</span></h2>
-				<p class="white-font">And start your journey with neo today.</p>
+				<p class="white-font">And start your journey with neo - today!</p>
 				
 				<a href="https://itunes.apple.com/us/app/neo-study/id1296757897/" target="_blank"><img src="assets/img/app-store-download.png"/></a>
 				<a href="https://play.google.com/store/apps/details?id=com.nexgen.nsa" target="_blank"><img src="assets/img/gplay-download.png"/></a>

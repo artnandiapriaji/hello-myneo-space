@@ -1030,6 +1030,7 @@ iframe{
 	
 	.feature-item .row > div:first-child{
 		padding-bottom: 0px;
+		z-index: 10;
 	}
 	
 	#result{
@@ -1134,6 +1135,7 @@ iframe{
 	.step-active + .step-item:before {
 		width: 126px;
 		height: 126px;
+		left: 29px;
 	}
 
 	.step-item div{
@@ -1280,6 +1282,9 @@ iframe{
 	.step-active + .step-item:before {
 		width: 86px;
 		height: 86px;
+		left: 0;
+		right: 0;
+		margin: 2px auto;
 	}
 
 	.step-item:after{
