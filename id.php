@@ -14,6 +14,9 @@
 			<a href="" target="_blank"><img id="main-banner6" src="" alt="Belajar Bahasa Inggris Sangat mudah dimana pun dan Kapan pun"/></a>
 		</div>
 		<div class="item">
+			<a href="" target="_blank"><img id="main-banner7" src="" alt="Belajar Bahasa Inggris Bersertifikat Internasional"/></a>
+		</div>
+		<div class="item">
 			<a href="" target="_blank"><img id="main-banner1" src="" alt="Kuasai Bahasa Inggris untuk sekolah/kuliah di luar negeri"/></a>
 		</div>
 		<div class="item">

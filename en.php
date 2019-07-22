@@ -14,6 +14,9 @@
 			<a href="" target="_blank"><img id="main-banner6" src="" /></a>
 		</div>
 		<div class="item">
+			<a href="" target="_blank"><img id="main-banner7" src="" /></a>
+		</div>
+		<div class="item">
 			<a href="" target="_blank"><img id="main-banner1" src="" /></a>
 		</div>
 		<div class="item">
