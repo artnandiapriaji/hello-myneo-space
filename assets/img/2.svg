@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="45px" height="80px" viewBox="0 0 45 80" enable-background="new 0 0 45 80" xml:space="preserve">
+<g>
+	<g>
+		<rect x="18.421" y="56.025" transform="matrix(0.7071 0.7071 -0.7071 0.7071 48.4994 3.7519)" fill="#3F4E7B" width="2.599" height="8.789"/>
+		<rect x="3.733" y="70.743" transform="matrix(0.7082 0.706 -0.706 0.7082 54.515 18.3709)" fill="#3F4E7B" width="2.598" height="8.793"/>
+		<rect x="0.622" y="59.135" transform="matrix(0.7079 0.7063 -0.7063 0.7079 44.1494 14.1071)" fill="#3F4E7B" width="8.791" height="2.601"/>
+		<polygon fill="#3F4E7B" points="21.931,79.15 15.708,72.938 17.542,71.1 23.765,77.307"/>
+		<animate attributeType="CSS" attributeName="opacity" 
+			from="1" 
+			to="0" 
+			dur="2s" 
+			values="1; 0; 1"
+			keyTimes="0; 0.5; 1"
+			repeatCount="indefinite" />
+	</g>
+	
+	<g>
+		<path fill="#499DD6" d="M36.492,15.886c-4.15,0.004-7.53-3.368-7.535-7.518c-0.004-4.152,3.368-7.533,7.519-7.537
+			c4.149-0.006,7.529,3.369,7.537,7.52C44.016,12.5,40.642,15.882,36.492,15.886z M36.479,3.431
+			c-2.716,0.003-4.925,2.215-4.922,4.934c0.002,2.719,2.216,4.926,4.932,4.924c2.717-0.004,4.927-2.219,4.925-4.935
+			C41.408,5.638,39.196,3.429,36.479,3.431z"/>
+		<animate attributeType="CSS" attributeName="opacity" 
+			from="1" 
+			to="0" 
+			dur="2s" 
+			values="0; 1; 0"
+			keyTimes="0; 0.5; 1"
+			repeatCount="indefinite" />
+	</g>
+</g>
+</svg>
