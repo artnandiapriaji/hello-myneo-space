@@ -1,2 +1,2 @@
-# neo-landing-page
-Marketing site for neo
+# hello-myneo-space
+landing page hello.myneo.space

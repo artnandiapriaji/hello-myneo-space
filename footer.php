@@ -25,9 +25,9 @@
 					
 					<div class="col-lg-4 col-md-4 col-sm-6">
 						<h5>payment</h5>
-						<img src="assets/img/payment1.png"/>
-						<img src="assets/img/payment2.png"/>
-						<img src="assets/img/payment7.png"/>
+						<img src="assets/img/payment1.webp"/>
+						<img src="assets/img/payment2.webp"/>
+						<img src="assets/img/payment7.webp"/>
 					</div>
 				</div>
 			</div>

@@ -6,9 +6,8 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-	<meta name="description" content="Platform pembelajaran Bahasa Inggris yang paling canggih, dengan teknologi AI yang aktif di ponsel anda. sistem pembelajaran Bahasa Inggris yang kuat, efektif, fleksibel dan nyaman ini dirancang untuk gaya hidup aktif dan mobile anda.">
-	
-	<title>neo Study - Aplikasi belajar Bahasa Inggris yang canggih &amp; efektif</title>
+	<meta name="description" content="Platform kursus bahasa inggris yang paling canggih, dengan teknologi AI yang aktif di ponsel anda. Sistem belajar Bahasa Inggris yang cepat, efektif, fleksibel, mudah dan nyaman ini dirancang untuk gaya hidup aktif dan mobile anda.">
+	<title>Nexgen neo - Cara Efektif Belajar Bahasa Inggris dengan Aplikasi yang Canggih</title>
 	
 	<!-- FAVICON AND APPLE TOUCH -->    
 	<link rel="shortcut icon" href="assets/img/neo_favicon.ico">
@@ -54,12 +53,12 @@
 				<li><a class="lang-active" href="javascript:void(0)">ID</a>|<a href="en.php">EN</a></li>
 				<li>
 					<a href="https://itunes.apple.com/us/app/neo-study/id1296757897/" target="_blank">
-						<img src="assets/img/app-store-header.png" alt="Dapatkan neo Study di AppStore"/>
+						<img src="assets/img/app-store-header.webp" alt="Dapatkan neo Study di AppStore"/>
 					</a>
 				</li>
 				<li>
 					<a href="https://play.google.com/store/apps/details?id=com.nexgen.nsa" target="_blank">
-						<img src="assets/img/gplay-header.png" alt="Dapatkan neo Study di Google Play Store"/>
+						<img src="assets/img/gplay-header.webp" alt="Dapatkan neo Study di Google Play Store"/>
 					</a>
 				</li>
 			</ul>
