@@ -7,26 +7,26 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta name="description" content="Platform pembelajaran Bahasa Inggris yang paling canggih, dengan teknologi AI yang aktif di ponsel anda. sistem pembelajaran Bahasa Inggris yang kuat, efektif, fleksibel dan nyaman ini dirancang untuk gaya hidup aktif dan mobile anda.">
-	
+
 	<title>neo Study - Aplikasi belajar Bahasa Inggris yang canggih &amp; efektif</title>
-	
-	<!-- FAVICON AND APPLE TOUCH -->    
+
+	<!-- FAVICON AND APPLE TOUCH -->
 	<link rel="shortcut icon" href="assets/img/neo_favicon.ico">
-	
+
 	<!-- BOOTSTRAP CSS -->
-	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css"> 
-	
+	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+
 	<!-- FONT AWESOME -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-	
+
 	<!-- OWL -->
 	<link rel="stylesheet" href="assets/css/owlcarousel/owl.carousel.min.css">
 	<link rel="stylesheet" href="assets/css/owlcarousel/owl.theme.default.min.css">
-	
+
 	<!-- CUSTOM & PAGES STYLE -->
 	<link rel="stylesheet" href="assets/css/basic.css">
 	<link rel="stylesheet" href="assets/css/main.css">
-	
+
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -34,8 +34,36 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-MHH7W2M');</script>
 	<!-- End Google Tag Manager -->
-	
 
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153805574-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153805574-1');
+</script>
+<meta name="google-site-verification" content="l5mqmc63lOvPgM9l-5gStPi1HuCcKw5eJsu9LsfVchI" />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "neo study",
+  "operatingSystem": "ANDROID",
+  "applicationCategory": "https://schema.org/EducationalApplication",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.0",
+    "ratingCount": "262"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "IDR"
+  }
+}
+</script>
 </head>
 
 <body id="id" class="afterload aftercenter">
