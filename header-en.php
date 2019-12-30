@@ -34,7 +34,28 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-MHH7W2M');</script>
 	<!-- End Google Tag Manager -->
-	
+
+	<meta name="google-site-verification" content="l5mqmc63lOvPgM9l-5gStPi1HuCcKw5eJsu9LsfVchI" />
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "SoftwareApplication",
+	  "name": "neo study",
+	  "operatingSystem": "ANDROID",
+	  "applicationCategory": "https://schema.org/EducationalApplication",
+	  "aggregateRating": {
+	    "@type": "AggregateRating",
+	    "ratingValue": "4.0",
+	    "ratingCount": "262"
+	  },
+	  "offers": {
+	    "@type": "Offer",
+	    "price": "0",
+	    "priceCurrency": "IDR"
+	  }
+	}
+	</script>
+
 </head>
 
 <body id="en" class="afterload aftercenter">
