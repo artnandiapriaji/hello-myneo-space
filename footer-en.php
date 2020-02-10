@@ -32,7 +32,7 @@
 				</div>
 			</div>
 				
-			<div class="container"><p class="copyright">Copyright &copy; 2018. All Right Reserved.</p></div>
+      <div class="container"><p class="copyright">Copyright &copy; <span id="year"></span>. All Right Reserved.</p></div>
 		</div><!-- footer -->
 	</footer><!-- FOOTER -->
 
@@ -164,7 +164,9 @@
               })
             })
           </script>
-	 
+      <script>
+          document.getElementById("year").innerHTML = new Date().getFullYear();
+      </script>	 
 </body>
 	
 </html>

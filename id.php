@@ -281,7 +281,7 @@
 	<div class="container">
 		<div class="section-header">
 			<h2 class="text-center">Rilis Pers</h2>
-			<p class="text-center">Apa yang dikatakan pers tentang nexgen neo</p>
+			<p class="text-center">Apa yang dikatakan pers tentang neo</p>
 		</div>
 	</div>
 		

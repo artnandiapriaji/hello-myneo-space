@@ -278,7 +278,7 @@
 	<div class="container">
 		<div class="section-header">
 			<h2 class="text-center">Press Release</h2>
-			<p class="text-center">What the press is saying about nexgen neo</p>
+			<p class="text-center">What the press is saying about neo</p>
 		</div>
 	</div>
 	
