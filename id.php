@@ -466,7 +466,7 @@
 				<a href="https://play.google.com/store/apps/details?id=com.nexgen.nsa" target="_blank"><img src="assets/img/gplay-download.webp" alt="Dapatkan neo Study di Google Play Store"/></a>
 			</div>
 			<div class="col-md-5">
-				<img class="download-image" src="assets/img/download-phone.webp" alt="Unduh sekarang dan mulai petualangan belajarmu dengan neo Study"/>
+				<img class="download-image" src="assets/img/download-phone.png" alt="Unduh sekarang dan mulai petualangan belajarmu dengan neo Study"/>
 				<div class="pattern6"><svg><use class="svg-nav nav-blue" xlink:href="#pattern6"></use></svg></div>
 				<div class="pattern7"><svg><use class="svg-nav nav-blue" xlink:href="#pattern7"></use></svg></div>
 			</div>
