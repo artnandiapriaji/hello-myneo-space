@@ -10,6 +10,7 @@
 		<div class="item">
 			<a href="" target="_blank"><img id="main-banner5" src="" /></a>
 		</div>
+		<!--
 		<div class="item">
 			<a href="" target="_blank"><img id="main-banner6" src="" /></a>
 		</div>
@@ -25,6 +26,7 @@
 		<div class="item">
 			<a href="" target="_blank"><img id="main-banner4" src="" /></a>
 		</div>
+		-->
 	</div>
 	
 </section>
