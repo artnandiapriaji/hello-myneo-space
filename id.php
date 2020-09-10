@@ -8,28 +8,33 @@
 
 	<div class="owl-carousel owl-carousel1 owl-theme">
 		<div class="item">
-			<a href="" target="_blank"><img id="main-banner5" src="" alt="Belajar Bahasa Inggris Bersertifikat Internasional"/></a>
-		</div>
-		<!--
-		<div class="item">
-			<a href="" target="_blank"><img id="main-banner6" src="" alt="Belajar Bahasa Inggris Sangat mudah dimana pun dan Kapan pun"/></a>
+			<a href="https://pintaria.com/bahasa-inggris-untuk-kebutuhan-profesional-bisnis-neo" target="_blank">
+			<img id="main-banner9" src="" alt="Dapatkan di Pintaria"/></a>
 		</div>
 		<div class="item">
-			<a href="" target="_blank"><img id="main-banner7" src="" alt="Belajar Bahasa Inggris Bersertifikat Internasional"/></a>
+			<a href="https://myneo.space/" target="_blank"><img id="main-banner8" src="" alt="Dapatkan di maubelajarapa"/></a>
 		</div>
 		<div class="item">
-			<a href="" target="_blank"><img id="main-banner1" src="" alt="Kuasai Bahasa Inggris untuk sekolah/kuliah di luar negeri"/></a>
+			<a href="https://myneo.space/" target="_blank"><img id="main-banner5" src="" alt="Belajar Bahasa Inggris Bersertifikat Internasional"/></a>
 		</div>
 		<div class="item">
-			<a href="" target="_blank"><img id="main-banner2" src="" alt="Kuasai Bahasa Inggris untuk bekerja di perusahaan multinasional"/></a>
+			<a href="https://myneo.space/" target="_blank"><img id="main-banner6" src="" alt="Belajar Bahasa Inggris Sangat mudah dimana pun dan Kapan pun"/></a>
 		</div>
 		<div class="item">
-			<a href="" target="_blank"><img id="main-banner3" src="" alt="Kuasai Bahasa Inggris untuk memperluas bisnis ke luar negeri"/></a>
+			<a href="https://myneo.space/" target="_blank"><img id="main-banner7" src="" alt="Belajar Bahasa Inggris Bersertifikat Internasional"/></a>
 		</div>
 		<div class="item">
-			<a href="" target="_blank"><img id="main-banner4" src="" alt="Kuasai Bahasa Inggris untuk perjalanan wisata keliling dunia"/></a>
+			<a href="https://myneo.space/" target="_blank"><img id="main-banner1" src="" alt="Kuasai Bahasa Inggris untuk sekolah/kuliah di luar negeri"/></a>
 		</div>
-		-->
+		<div class="item">
+			<a href="https://myneo.space/" target="_blank"><img id="main-banner2" src="" alt="Kuasai Bahasa Inggris untuk bekerja di perusahaan multinasional"/></a>
+		</div>
+		<div class="item">
+			<a href="https://myneo.space/" target="_blank"><img id="main-banner3" src="" alt="Kuasai Bahasa Inggris untuk memperluas bisnis ke luar negeri"/></a>
+		</div>
+		<div class="item">
+			<a href="https://myneo.space/" target="_blank"><img id="main-banner4" src="" alt="Kuasai Bahasa Inggris untuk perjalanan wisata keliling dunia"/></a>
+		</div>
 	</div>
 	
 </section>
@@ -468,7 +473,7 @@
 				<a href="https://play.google.com/store/apps/details?id=com.nexgen.nsa" target="_blank"><img src="assets/img/gplay-download.webp" alt="Dapatkan neo Study di Google Play Store"/></a>
 			</div>
 			<div class="col-md-5">
-				<img class="download-image" src="assets/img/download-phone.png" alt="Unduh sekarang dan mulai petualangan belajarmu dengan neo Study"/>
+				<img class="download-image" src="assets/img/download-phone.webp" alt="Unduh sekarang dan mulai petualangan belajarmu dengan neo Study"/>
 				<div class="pattern6"><svg><use class="svg-nav nav-blue" xlink:href="#pattern6"></use></svg></div>
 				<div class="pattern7"><svg><use class="svg-nav nav-blue" xlink:href="#pattern7"></use></svg></div>
 			</div>

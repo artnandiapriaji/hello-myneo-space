@@ -31,7 +31,7 @@
 		else if(getOS() == 'iOS'){
 			href = "https://itunes.apple.com/us/app/neo-study/id1296757897/";
 		}
-		else href = "https://myneo.space/";
+		// else href = "https://myneo.space/";
 		
 		$("#mainbanner a").attr("href", href);
 				
